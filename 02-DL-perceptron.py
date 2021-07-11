@@ -14,6 +14,9 @@
 #     name: python3
 # ---
 
+#입출력을 갖춘 단층 퍼셉트론 AND/NAND/OR Gate
+#동일한 알고리즘에서 w, b(매개변수)를 조정해 구현
+
 #AND Gate
 def AND(x1, x2):
     w1, w2, theta = 0.5, 0.5, 0.7

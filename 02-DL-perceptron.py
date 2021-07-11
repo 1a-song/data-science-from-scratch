@@ -81,6 +81,7 @@ def OR(x1, x2):
 
 # +
 #multi-layer perceptron으로 구현하는 XOR Gate
+#비선형 영역도 다층 퍼셉트론을 도입하면 구현할 수 있다!
 
 import pandas as pd
 
